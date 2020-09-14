@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Binary Search'/>
+        <page name='Factorials and REcursion'/>
+        <page name='Reverse Linked List'/>
+        <page name='Most common name in array'/>
+        <page name='Reverse every other word'/>
+        <page name='Stacks and Generics'/>
+        <page name='Loops and Hash Maps'/>
+        <page name='Recursive search through binary tree'/>
+        <page name='Linked List Interview'/>
+        <page name='Merge Sort'/>
+        <page name='Binary Search 2'/>
+        <page name='Bubble sort'/>
+        <page name='Quicksort'/>
+    </pages>
+</playground>
