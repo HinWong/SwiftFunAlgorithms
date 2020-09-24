@@ -14,5 +14,6 @@
         <page name='Binary Search 2'/>
         <page name='Bubble sort'/>
         <page name='Quicksort'/>
+        <page name='Wrapping an Array'/>
     </pages>
 </playground>
